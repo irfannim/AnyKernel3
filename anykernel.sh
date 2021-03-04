@@ -9,8 +9,6 @@ do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=lavender
-device.name2=jasmine
-device.name3=wayne
 supported.versions=9 - 11
 supported.patchlevels=
 '; } # end properties
